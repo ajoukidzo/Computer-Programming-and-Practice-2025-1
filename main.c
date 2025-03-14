@@ -6,6 +6,11 @@
 
 int value(int);
 
+/*
+* * value 함수는 받은 값을 반환한다
+*/
+
+
 int main() {
 	return value(1); /* 1을 반환한다. */
 }
